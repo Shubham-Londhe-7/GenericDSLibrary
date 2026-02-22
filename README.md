@@ -12,7 +12,7 @@ memory management, templates, and modular library design**.
 
 ## 🚀 Implemented Data Structures
 
-### ✅ Array (Generic)
+### ✅ Array
 
 -   Linear Search
 -   Bidirectional Search
@@ -33,7 +33,7 @@ memory management, templates, and modular library design**.
 -   Linked List based implementation
 -   push, pop, peep, display, count
 
-### ✅ Queue
+### ✅ Queue 
 
 -   Linked List based implementation
 -   enqueue, dequeue, display, count
