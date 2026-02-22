@@ -46,7 +46,6 @@ memory management, templates, and modular library design**.
 -   Header-only reusable library
 -   Modular class-based architecture
 -   Detailed function documentation headers
--   Placement-ready DSA project
 
 ------------------------------------------------------------------------
 
