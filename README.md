@@ -73,5 +73,3 @@ g++ test.cpp -o test
 **Shubham Tanaji Londhe**
 
 ------------------------------------------------------------------------
-
-⭐ If you like this project, consider giving it a star.
